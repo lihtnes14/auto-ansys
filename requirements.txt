@@ -4,3 +4,4 @@ pdf2image==1.16.0
 pytesseract==0.3.8
 PyPDF2==1.26.0
 python-dotenv==0.19.2
+altair
