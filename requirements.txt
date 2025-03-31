@@ -1,0 +1,6 @@
+streamlit
+altair
+pdf2image
+PyPDF2
+openai
+python-dotenv
